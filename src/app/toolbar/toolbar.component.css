@@ -1,0 +1,13 @@
+.appTitle{
+    align-self: flex-start;
+    font-size: 16px;
+    color: rgb(255,165,0);
+    padding-top: 8px;
+    padding-right: 5px;
+    justify-content: center;
+    font-family: Arial;
+    font-stretch: expanded;
+    font-weight: bold;
+    font-variant: small-caps ;
+    text-shadow: 4px 4px 4px maroon;
+}
